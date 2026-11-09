@@ -1,3 +1,3 @@
-print("added car already")
-print("adding few more vehicles soon")
-print("this is github practise files")
+print("Added car already")
+print("Adding few more vehicles soon")
+print("This is github practise files")
